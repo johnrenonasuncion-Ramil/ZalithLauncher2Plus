@@ -1,3 +1,13 @@
+# ⚠️ This Repository Has Moved
+
+Zeryth Launcher development has moved to a new repository. This repo is no longer maintained — please head over to the new one for the latest code, issues, and updates:
+
+### 👉 [ZerythLauncher/Zeryth-Launcher](https://github.com/ZerythLauncher/Zeryth-Launcher)
+
+All open and closed issues have been migrated there. Please open new issues and contribute at the new repository going forward.
+
+---
+
 # Zeryth Launcher
 
 > ⚠️ **UNOFFICIAL MODIFIED VERSION**
